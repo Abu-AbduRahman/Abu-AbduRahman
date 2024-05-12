@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abduljabar mohamed
-- 👀 I’m interested in ...becoming a devop engineer
-- 🌱 I’m currently learning ... to become a devop engineer
+- 👀 I’m interested in ...becoming a devops engineer
+- 🌱 I’m currently learning ... to become a devops engineer
 - 💞️ I’m looking to collaborate on ...the steps to become very well grounded in this field 
 - 📫 How to reach me ... via my email abu-abdurahman123@hotmail.com
 - 😄 Pronouns: ..male 
